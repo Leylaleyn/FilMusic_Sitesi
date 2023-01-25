@@ -1,0 +1,56 @@
+<RCC>
+  <qresource prefix="image">
+    <file>img10.jpg</file>
+    <file>img9.jpg</file>
+    <file>img6.jpg</file>
+    <file>img7.jpg</file>
+    <file>img8.jpg</file>
+    <file>img2.jpg</file>
+    <file>img3.jpg</file>
+    <file>img4.jpg</file>
+    <file>img5.jpg</file>
+    <file>img0.png</file>
+    <file>img1.png</file>
+    <file>dizi.png</file>
+    <file>ayarlar.jpg</file>
+    <file>dizimüzik.jpg</file>
+    <file>download.png</file>
+    <file>film.jpg</file>
+    <file>filmüzik.png</file>
+    <file>user.jpg</file>
+  </qresource>
+  <qresource prefix="yonetmen">
+    <file>img41.jpg</file>
+    <file>img36.jpg</file>
+    <file>img37.jpg</file>
+    <file>img38.jpg</file>
+    <file>img39.jpg</file>
+    <file>img40.jpg</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img42.jpg</file>
+    <file>img15.jpg</file>
+    <file>img16.jpg</file>
+    <file>img17.jpg</file>
+    <file>img18.jpg</file>
+    <file>img19.jpg</file>
+    <file>img20.jpg</file>
+    <file>img21.jpg</file>
+    <file>img22.jpg</file>
+    <file>img23.jpg</file>
+    <file>img24.jpg</file>
+    <file>img25.jpg</file>
+    <file>img26.jpg</file>
+  </qresource>
+  <qresource prefix="imgdizi">
+    <file>img35.webp</file>
+    <file>img34.jpeg</file>
+    <file>img27.jpg</file>
+    <file>img33.jpeg</file>
+    <file>img28.jpg</file>
+    <file>img29.jpg</file>
+    <file>img30.jpg</file>
+    <file>img31.jpg</file>
+    <file>img32.jpg</file>
+  </qresource>
+</RCC>
